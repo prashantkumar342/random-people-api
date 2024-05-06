@@ -8,4 +8,4 @@ Fake JSON data, random people api and a little fun project
 <p>In this api call project i used a api that contains fake user data in json fromat, at every refresh a new user data will appear 
 api call using "fetch" and xmlHttpRequest method id also in the code but it is commented</p>
 <hr>
-[api] (https://randomuser.me/api/)
+[api](https://randomuser.me/api/)
